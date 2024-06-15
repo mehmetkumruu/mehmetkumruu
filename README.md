@@ -7,6 +7,4 @@
 
 ![Mehmet's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mehmetkumruu&&theme=tokyonight)
 
-![Mehmet's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkumruu&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetkumruu&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
